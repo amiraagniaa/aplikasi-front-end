@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" media="all" href="login.css">
+<div id="login">
+    <h1>Please Login Using Your authorized data</h1>
+
+    <form name="loginform" id="loginform" action="?mod=auth&amp;sub=auth&amp;do=process" method="post">
+        <p>
+            <label>Username
+                <input name="user" id="user_login" class="input" size="20" tabindex="10" type="text"></label>
+        </p>
+        <p>
+            <label>Password
+                <input name="pass" id="user_pass" class="input" value="" size="20" tabindex="20"
+                    type="password"></label>
+        </p>
+        <p class="cancel">
+            <input name="cancel" id="cancel" value="Cancel" tabindex="80" type="submit">
+            <input type="hidden" name="id" value="">
+
+        <p class="submit">
+            <input name="submit" id="submit" value="LOGIN NOW! -->" tabindex="100" type="submit">
+            <input type="hidden" name="id" value="">
+        </p>
+    </form>
+</div>
