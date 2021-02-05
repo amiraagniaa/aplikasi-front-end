@@ -29,4 +29,4 @@ b. login.css
 c. signup.css
 
 # Salah Satu tampilan 
-<img src="Tampilan modul.jpg">
+<img src="tampilan modul.jpg">
