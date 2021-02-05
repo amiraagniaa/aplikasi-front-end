@@ -1,32 +1,32 @@
-# aplikasi-front-end
-plikasi front-end berdasarkan wireframe dan workflow yg sudah didesain
+# Tugas RKS F
 
-Pada Tampilan Situs Web TIF ini saya menunjukkan bagaimana cara tampilan situs web TIF.uad.ac.id yang dimana untuk membuat Front End nya. pada Front End ini saya mengikuti rnacangan wireframe, workflow, dan dokumentasi kebutuhan yang telah saya buat sebelum UAS. berikut Link Tuags Sebelum UAS:
+# Nama : Amira Agenia
+# Nim : 1800018287
+
+Pada tampilan Situs Web TIF ini saya menunjukan bagaimana cara tampilan situs web TIF.uad.ac.id yang dimana untuk membuat Front Endnya
+
+Pada Front End ini saya mengikuti rancanggan wireframe, workflow, dan dokumentasi kebutuhan yang telah saya buat sebelum UAS
+
+Berikut Link Tugas Sebelum UAS:
 
 https://drive.google.com/drive/folders/1PDdCZfVwOt-5a2wyPSi3CSpUTfWKP5J_?usp=sharing
 
-File berikut diisi dan diisi pada file: 
+File berikut diisi dan diisi pada file :
 
-A. Tampilan
+# Tampilan 
+a. Tampilan.html
+b. dasboard.html
 
-- tampilan.html 
-- dasboard.html 
+# Login
+a. Login.html
 
-B. Login
+# Daftar
+a. Signup.html
 
--login.html 
+# CSS
+a. dasboard.css
+b. login.css
+c. signup.css
 
-C. daftar 
-
-- signup.html 
-
-D. CSS
-
-- dasboard.css
-- login.css 
-- signup.css
-
-E. SS
-
-- Login.jpg
-
+# Salah Satu tampilan 
+<img src="Tampilan modul.jpg">
